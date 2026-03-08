@@ -9,6 +9,7 @@ namespace Git
         static void Main(string[] args)
         {
             Print("Hi");
+            Print("Bye");
         }
     }
 }
