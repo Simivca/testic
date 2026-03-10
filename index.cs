@@ -11,7 +11,7 @@ namespace Git
             Print("Hi");
             Print("Bye");
             Print("Hi again");
-            Print("Really old feature");
+            Print("Really cool feature");
         }
     }
 }
